@@ -8,7 +8,7 @@ setup(
     version='1.0',
     description='wxPython components - list control and sizer utilities',
     long_description=long_description,
-    url='https://github.com/AndersMunch/wxdo',
+    url='https://github.com/AndersMunch/alug',
     author='Anders Munch',
     author_email='ajm@flonidan.dk',
     license='MIT',
